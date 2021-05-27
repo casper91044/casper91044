@@ -12,3 +12,7 @@
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=097CDB)](https://t.me/Eliseev_Artist)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=097CDB)](https://www.linkedin.com/in/artem-eliseev/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/casper91044/github-readme-stats)
+
+
