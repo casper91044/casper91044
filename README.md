@@ -1,4 +1,4 @@
-![Header](https://github.com/casper91044/casper91044/blob/main/assets/keep-calm-and-keep-coding-6.png)
+![Header](https://github.com/casper91044/casper91044/blob/main/assets/78957846-line-concept-for-computer-engineering-modern-linear-web-banner-for-software-development-.jpg)
 
 ## I'm Java Developer and Software Engineer
 
